@@ -7,12 +7,6 @@ I will focus in consumer Loans, The data set contains all available data for mor
 The dataset contains all available data for more than 800,000 consumer loans issued from 2007 to 2015 by Lending Club: a large US peer-to-peer lending company. There are several different versions of this dataset. We have used a version available on kaggle.com. You can find it here: https://www.kaggle.com/wendykan/lending-club-loan-data/version/1
 We divided the data into two periods because we assume that some data are available at the moment when we need to build Expected Loss models, and some data comes from applications after. Later, we investigate whether the applications we have after we built the Probability of Default (PD) model have similar characteristics with the applications we used to build the PD model.
 
-
-Credit Limit 
-
-# FUente de datos
-
-
 # Methods 
 - Credit risk
 - Determing relevant predictors
