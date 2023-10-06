@@ -15,9 +15,9 @@ We divided the data into two periods because we assume that some data are availa
 - Continuous data
 - Probability of default
 - Techniques:
-  - Fine classing - slice the information equal size intervals 
-  - Coarse classing - slice the information,  no equal intervals
-  - Weight of evidence
+  - Fine classing - slice the information equal size intervals (continuous variables)
+  - Coarse classing - slice the information,  no equal intervals, the process of constructing new categories based on initial ones 
+  - Weight of evidence - independent variable would predict
   - Information Value
 
 # Models used
